@@ -12,5 +12,10 @@ namespace git_test_01
         {
             int i = 1;
         }
+
+        static bool isZero(int i)
+        {
+            return i == 0;
+        }
     }
 }
