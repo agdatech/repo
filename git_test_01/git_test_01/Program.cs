@@ -10,6 +10,7 @@ namespace git_test_01
     {
         static void Main(string[] args)
         {
+            int i = 1;
         }
     }
 }
