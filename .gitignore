@@ -1,0 +1,17 @@
+# ignore all bin and obj directories
+/**/bin/
+/**/obj/
+
+# ignore packages directory (it is automatically generated)
+/**/packages/
+
+# ignore .suo (Solution User Options) and .user files - they are redundant
+/**/*.suo
+/**/*.user
+
+# ignore strategy libs
+Strategy/*/libs/
+
+# ignore strategy dlls
+Cobi/Strategies/
+Strategy/*/libs/
